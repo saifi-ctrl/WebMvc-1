@@ -1,5 +1,5 @@
 class Demo{
 public static void main(String[]args){
-system.out.println("Say Yes");
+System.out.println("Say Yes");
 }
 }
