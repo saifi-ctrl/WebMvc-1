@@ -11,7 +11,7 @@ public class TestController {
 		
 		ModelAndView mav = new ModelAndView();
 		
-		mav.addObject("msg","welcome to mav first page...");
+		mav.addObject("msg","welcome to the MVC first page...");
 		
 		mav.setViewName("index");
 		
