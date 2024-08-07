@@ -3,6 +3,8 @@ package com.test.mvc;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+//By Using Spring Annotation
+
 @SpringBootTest
 class WebMvc1ApplicationTests {
 
